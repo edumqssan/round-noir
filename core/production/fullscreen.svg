@@ -1,4 +1,4 @@
-<svg id="Core" width="24" height="24" version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<svg id="Core" version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
     <g transform="translate(-.35151 -2.3112)">
         <path id="Shape" d="m2.8515 2.3112c-1.385 0-2.5 1.115-2.5 2.5v6.5h4v-3.334c0-0.92332 0.74269-1.666 1.666-1.666h3.334v-4zm12.5 0v4h3.334c0.92332 0 1.666 0.74269 1.666 1.666v3.334h4v-6.5c0-1.385-1.115-2.5-2.5-2.5zm-15 15v6.5c0 1.385 1.115 2.5 2.5 2.5h6.5v-4h-3.334c-0.92332 0-1.666-0.74269-1.666-1.666v-3.334zm20 0v3.334c0 0.92332-0.74269 1.666-1.666 1.666h-3.334v4h6.5c1.385 0 2.5-1.115 2.5-2.5v-6.5z" style="fill:#010101;stroke-dasharray:30.24, 15.11999999999999922;stroke-dashoffset:24.948;stroke-linejoin:round;stroke-width:3.78"/>
     </g>
